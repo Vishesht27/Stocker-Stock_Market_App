@@ -1,4 +1,4 @@
-package com.example.stocker
+     package com.example.stocker
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
